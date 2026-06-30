@@ -1,4 +1,4 @@
-# 📊 Superstore Sales Performance Dashboard (Power BI)
+# Superstore Sales Performance Dashboard (Power BI)
 
 ## Project Overview
 
@@ -84,7 +84,7 @@ The dataset contains information about:
 
 ---
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 
 - Data Cleaning
 - Data Modeling
